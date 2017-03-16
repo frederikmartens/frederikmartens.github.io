@@ -1,0 +1,8 @@
+<section class="languages">
+  <h2>Languages</h2>
+  <ul class="list-unstyled languages-list">
+    {% for language in site.data.cv.languages %}
+    <li>{{language.language | capitalize}} <span class="lang-desc">({{language.level | capitalize}})</span></li>
+    {% endfor %}
+  </ul>
+</section>

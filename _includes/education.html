@@ -1,0 +1,8 @@
+<section class="education">
+  <h2 class="black-text"><i class="fa fa-graduation-cap"></i>Education and training</h2>
+  <ul class="list-unstyled education-list">
+    {% for education in site.data.cv.education %}
+    <li class="gray-text item">{{education.name}} <span class="lang-desc">({{education.years}})</span></li>
+    {% endfor %}
+  </ul> 
+</section> 

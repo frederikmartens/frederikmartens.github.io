@@ -1,0 +1,21 @@
+<section class="experiences">
+  <h2 class="black-text"><i class="fa fa-briefcase"></i>Experience</h2>
+
+  {% for experience in site.data.cv.experience %}
+  <div class="item">
+    <div class="row">
+        <h3 class="job-title black-text">{{experience.jobTitle}}</h3>
+        <p class="period gray-text">{{experience.years}}</p>
+    </div><!--//row-->
+    <div style="clear: both;"></div>
+    <div class="company gray-text">{{experience.employer}}</div>
+    <div style="clear: both;"></div>
+    {% for info in experience.info %}
+    <div class="details gray-text">
+      {{info | markdownify}}
+    </div><!--//details-->
+    {% endfor %}
+  </div><!--//item-->
+  {% endfor %}
+
+</section>

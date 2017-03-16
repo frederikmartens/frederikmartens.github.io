@@ -1,0 +1,14 @@
+<section class="skills">
+  <h2>Skills</h2>
+  <table>
+    {% for skill in site.data.cv.skills %}
+    <tr>
+      <td class="skill-name">{{skill.name}}</td>
+      <td class="skill-duration">{{skill.duration}}</td>
+      <td class="skill-level">
+        <img src="{{site.baseurl}}assets/images/{{skill.level}}-white.png" alt="{{skill.level}}"/>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</section>

@@ -1,0 +1,129 @@
+---
+personalInformation:
+  name: Frederik Martens
+  age: 36 years
+  maritalStatus: Married
+  children: 1 child
+  location: Eeklo
+  address-line1: Kriekerij 6
+  address-line2: 9900 Eeklo
+  email: martens.frederik@telenet.be
+  telephone: +32 478 20 98 24
+  availability: Available in 3 months
+  tagline: Software developer at heart and always helpful to others.
+
+social:
+  goodreads: frederikmartens
+  twitter: shrineas
+  linkedin: frederik-martens-664108113
+  github: shrineas
+
+languages:
+  - language: Dutch
+    level: native
+  - language: English
+    level: professional
+  - language: French
+    level: professional understanding
+  - language: German
+    level: notions
+
+skills:
+  - name: Java EE
+    duration: 9 years
+    level: medium-advanced
+  - name: Git
+    duration: 1 year
+    level: novice
+  - name: Subversion
+    duration: 9 years
+    level: medium-advanced
+  - name: Javascript
+    duration: 6 years
+    level: medium
+  - name: CSS
+    duration: 3 years
+    level: medium
+  - name: Vaadin
+    duration: 3 years
+    level: medium
+  - name: Struts
+    duration: 5 years
+    level: medium
+  - name: PHP
+    duration: 3 years
+    level: medium
+  - name: Linux
+    duration: 15 years
+    level: medium-advanced
+  - name: Windows
+    duration: 20 years
+    level: medium-advanced
+
+tools:
+  - Hibernate
+  - XPath
+  - XML / XSD / XSLT
+  - Eclipse
+  - Vim
+  - jQuery
+  - Dojo (JS library)
+  - Maven
+  - JBoss
+  - GitLab
+  - UpSource
+  - Sonar
+  - MediaWiki
+  - JUnit / Mockito / PowerMock
+  - Jenkins
+  - Jira
+  - OpenGrok
+
+experience:
+  - years: 2007-present
+    employer: Smals (employee)
+    jobTitle: Java developer
+    info: 
+      - Detached at SFPD (Brussels)
+      - Scrum Master since 2015
+      - Development of the replacement to existing software products with a Java EE implementation for the calculation and payment of and informing about the pensions for Belgian citizens. One part is the big internal web application used by the employees at SFPD, another is the public web portal for citizens to access their pension information.
+  - years: 2004-2007
+    employer: Arteveldehogeschool Gent
+    jobTitle: PHP developer
+    info: Install, maintain and develop new features for an electronic learning platform for the students and teachers.
+  - years: 2003
+    employer: Top Solution Development
+    jobTitle: Web developer
+    info: Development of several websites and web applications in ASP and Javascript.
+  - years: 2002
+    employer: Language center of University of Ghent
+    jobTitle: Java developer
+    info: Development of an electronic learning application specically for students of the Language Center.
+
+education:
+  - name: Management 3.0
+    years: 2017
+  - name: Visual Facilitation Training
+    years: 2016
+  - name: Training ISTQB basic
+    years: 2016
+  - name: Basic Agile Training
+    years: 2007, 2014
+  - name: Professional Bachelor @Hogeschool Gent
+    years: 1999 - 2002
+  - name: Economics - Modern languages @OLVA Assebroek
+    years: 1992 - 1998
+
+hobbies:
+  - Scientific documentaries
+  - Artificial intelligence
+  - Self driving cars
+  - Raspberry Pi tinkering
+
+professionalInterests:
+  - Clean Code
+  - Test driven development
+  - Agile methodology
+  - Code reviews
+  - Continuous deployment / delivery
+...

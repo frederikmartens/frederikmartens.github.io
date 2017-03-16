@@ -1,0 +1,8 @@
+<section class="professionalInterests">
+  <h2 class="black-text"><i class="fa fa-black-tie"></i>Professional Interests</h2>
+  <ul class="list-unstyled interests-list">
+    {% for interest in site.data.cv.professionalInterests %}
+    <li class="gray-text item">{{interest}}</li>
+    {% endfor %}
+  </ul>
+</section> 
