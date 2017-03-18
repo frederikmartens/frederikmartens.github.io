@@ -90,7 +90,7 @@ experience:
   - years: 2004-2007
     employer: Arteveldehogeschool Gent
     jobTitle: PHP developer
-    info: Install, maintain and develop new features for an electronic learning platform for the students and teachers.
+    info: Installation, maintenance and development of new features for an electronic learning platform for the students and teachers.
   - years: 2003
     employer: Top Solution Development
     jobTitle: Web developer
@@ -98,7 +98,7 @@ experience:
   - years: 2002
     employer: Language center of University of Ghent
     jobTitle: Java developer
-    info: Development of an electronic learning application specically for students of the Language Center.
+    info: Development of an electronic learning application specifically for students of the Language Center.
 
 education:
   - name: Management 3.0
