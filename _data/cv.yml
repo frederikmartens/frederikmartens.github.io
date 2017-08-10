@@ -64,7 +64,7 @@ tools:
   - Hibernate
   - XPath
   - XML / XSD / XSLT
-  - Eclipse
+  - Eclipse / IntelliJ
   - Vim
   - jQuery
   - Dojo (JS library)
