@@ -30,10 +30,10 @@ languages:
 
 skills:
   - name: Java EE
-    duration: 10 years
+    duration: 12 years
     level: medium-advanced
   - name: Git
-    duration: 2 years
+    duration: 4 years
     level: medium
   - name: Subversion
     duration: 9 years
@@ -45,7 +45,7 @@ skills:
     duration: 3 years
     level: medium
   - name: Vaadin
-    duration: 3 years
+    duration: 5 years
     level: medium
   - name: Struts
     duration: 5 years
@@ -57,7 +57,7 @@ skills:
     duration: 15 years
     level: medium-advanced
   - name: Windows
-    duration: 20 years
+    duration: 22 years
     level: medium-advanced
 
 tools:
@@ -78,6 +78,7 @@ tools:
   - Jenkins
   - Jira
   - OpenGrok
+  - Grafana
 
 experience:
   - years: 2007-present
@@ -101,12 +102,20 @@ experience:
     info: Development of an electronic learning application specifically for students of the Language Center.
 
 education:
-  - name: Management 3.0
+  - name: Software Architecture for Developers (Simon Brown)
+    years: 2019
+  - name: Sociocracy 3.0
     years: 2017
   - name: Visual Facilitation Training
     years: 2016
   - name: Training ISTQB basic
     years: 2016
+  - name: Non Violent Communication
+    years: 2016
+  - name: Agile Awareness / Scrum Master Training (iLean)
+    years: 2015
+  - name: Vaadin training
+    years: 2012
   - name: Basic Agile Training
     years: 2007, 2014
   - name: Professional Bachelor @Hogeschool Gent
@@ -128,4 +137,31 @@ professionalInterests:
   - Continuous deployment / delivery
   - Software Craftsmanship
   - Self-learning
+
+books:
+  - Clean Code
+  - Growing Object-Oriented Software, Guided by Tests
+  - Accelerate
+  - Code Complete
+  - Working Effectively With Legacy Code
+  - Domain Driven Design
+  - Effective Java
+  - Pragmatic Programmer
+  - Refactoring
+  - Test Driven Development By Example
+  - Continuous Delivery
+  - xUnit Test Patterns
+  - Test Driven
+  - Effective Unit Testing
+  - Design Patterns
+
+roleModels:
+  - Martin Fowler
+  - Emily Bache
+  - Victor Rentea
+  - Tim Ottinger
+  - Sandro Mancuso
+  - Kent Beck
+  - Venkat Subramaniam
+  - Thierry de Pauw
 ...
