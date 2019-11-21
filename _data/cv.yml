@@ -136,6 +136,12 @@ professionalInterests:
   - Code reviews
   - Continuous deployment / delivery
   - Software Craftsmanship
+  - DevOps
+  - Continuous Improvement
+  - Coding Dojo
+  - Coding Katas
+  - Code Retreat
+  - Coaching
   - Self-learning
 
 books:
@@ -164,4 +170,9 @@ roleModels:
   - Kent Beck
   - Venkat Subramaniam
   - Thierry de Pauw
+  
+pointsOfView:
+  - Never Stop Learning
+  - Know Your Tools
+  - Boyscout Rule
 ...
