@@ -1,16 +1,16 @@
 ---
 personalInformation:
   name: Frederik Martens
-  age: 36 years
+  age: 39 years
   maritalStatus: Married
-  children: 1 child
+  children: 2 children
   location: Eeklo
   address-line1: Kriekerij 6
   address-line2: 9900 Eeklo
   email: martens.frederik@telenet.be
   telephone: +32 478 20 98 24
   availability: Available in 3 months
-  tagline: Software developer at heart and always helpful to others.
+  tagline: Software developer at heart and always helpful to others. Strong interest in technical coaching.
 
 social:
   goodreads: frederikmartens
@@ -102,9 +102,11 @@ experience:
     info: Development of an electronic learning application specifically for students of the Language Center.
 
 education:
+  - name: Sociocracy 3.0
+    years: 2019
   - name: Software Architecture for Developers (Simon Brown)
     years: 2019
-  - name: Sociocracy 3.0
+  - name: Sociocracy 3.0 introduction
     years: 2017
   - name: Visual Facilitation Training
     years: 2016
