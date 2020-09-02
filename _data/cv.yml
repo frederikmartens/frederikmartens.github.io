@@ -30,11 +30,11 @@ languages:
 
 skills:
   - name: Java EE
-    duration: 12 years
+    duration: 13 years
     level: medium-advanced
   - name: Git
-    duration: 4 years
-    level: medium
+    duration: 5 years
+    level: medium-advanced
   - name: Subversion
     duration: 9 years
     level: medium-advanced
@@ -45,7 +45,7 @@ skills:
     duration: 3 years
     level: medium
   - name: Vaadin
-    duration: 5 years
+    duration: 6 years
     level: medium
   - name: Struts
     duration: 5 years
@@ -57,7 +57,7 @@ skills:
     duration: 15 years
     level: medium-advanced
   - name: Windows
-    duration: 22 years
+    duration: 23 years
     level: medium-advanced
 
 tools:
