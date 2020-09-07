@@ -15,8 +15,8 @@ personalInformation:
 social:
   goodreads: frederikmartens
   twitter: shrineas
-  linkedin: frederik-martens-664108113
-  github: shrineas
+  linkedin: frederik-martens
+  github: frederikmartens
 
 languages:
   - language: Dutch
@@ -61,24 +61,24 @@ skills:
     level: medium-advanced
 
 tools:
-  - Hibernate
+  - IntelliJ / Eclipse
+  - Maven
+  - JUnit / Mocking tools
+  - Vim
+  - JBoss
   - XPath
   - XML / XSD / XSLT
-  - Eclipse / IntelliJ
-  - Vim
-  - jQuery
-  - Dojo (JS library)
-  - Maven
-  - JBoss
+  - Hibernate
+  - Jenkins
   - GitLab
   - UpSource
   - Sonar
   - MediaWiki
-  - JUnit / Mockito / PowerMock
-  - Jenkins
   - Jira
   - OpenGrok
   - Grafana
+  - jQuery
+  - Dojo (JS library)
 
 experience:
   - years: 2007-present
@@ -126,10 +126,14 @@ education:
     years: 1992 - 1998
 
 hobbies:
+  - Playing with my 2 children
   - Scientific documentaries
   - Artificial intelligence
   - Self driving cars
   - Raspberry Pi tinkering
+  - Guitar and drums
+  - Video games, movies and series
+  - Story running
 
 professionalInterests:
   - Clean Code
@@ -172,7 +176,10 @@ roleModels:
   - Kent Beck
   - Venkat Subramaniam
   - Thierry de Pauw
-  
+  - GeePaww Hill
+  - Sandi Metz
+  - Trisha Gee
+
 pointsOfView:
   - Never Stop Learning
   - Know Your Tools
